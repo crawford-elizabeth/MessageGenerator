@@ -1,0 +1,9 @@
+*{
+    font-family: Verdana;
+}
+h1{
+    color:blueviolet;
+}
+.overlay {
+    opacity: .5;
+}
